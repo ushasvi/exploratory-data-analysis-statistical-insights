@@ -28,7 +28,7 @@ This project explores retail sales data to identify patterns, relationships, and
 Key findings and statistical results are documented in the Jupyter notebook.
 
 ## Dataset
-Retail sales dataset used for educational and analytical practice. Specify whether the dataset is synthetic or real.
+This project uses a synthetic retail sales dataset created for educational purposes and statistical analysis.
 
 ## Author
 AI & Data Science Student | Aspiring Data Analyst
